@@ -1907,6 +1907,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 128240635}
+  - component: {fileID: 128240636}
   m_Layer: 0
   m_Name: SleepingGuard Cutscene
   m_TagString: Untagged
@@ -1929,6 +1930,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &128240636
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 128240634}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: f5fbed8b8feb5974da6de7edd04fb017, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 4780369898408609823, guid: f5fbed8b8feb5974da6de7edd04fb017, type: 2}
+    value: {fileID: 2043896032}
+  m_ExposedReferences:
+    m_References:
+    - d489c0dbc6fb9ab4bb5940bcea9eee5b: {fileID: 1322711273}
+    - 6ef6e652f6a0d44469507e1a5b9f4d07: {fileID: 913199437}
 --- !u!1001 &131062146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40500,7 +40522,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: 0.11019686, y: -0.8848264, z: 0.26655725, w: 0.3659046}
+  m_LocalRotation: {x: 0.09839374, y: -0.7900532, z: 0.23800643, w: -0.556427}
   m_LocalPosition: {x: 4.682, y: 4.415, z: -104.525}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
