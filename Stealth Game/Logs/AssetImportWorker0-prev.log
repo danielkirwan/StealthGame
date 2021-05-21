@@ -15,11 +15,11 @@ D:/Games/DangryGames/StealthGame/StealthGame/Stealth Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53582
+59011
 Successfully changed project path to: D:/Games/DangryGames/StealthGame/StealthGame/Stealth Game
 D:/Games/DangryGames/StealthGame/StealthGame/Stealth Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 61.10 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 60.17 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
@@ -30,675 +30,387 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
     Vendor:   
     VRAM:     2007 MB
-    Driver:   27.21.14.6627
+    Driver:   27.21.14.6647
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006160 seconds.
+Registered in 0.004689 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 71.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 55.57 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.313 seconds
+- Completed reload, in  2.834 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001553 seconds.
+Registered in 0.001377 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.346 seconds
+- Completed reload, in  3.006 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.24 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1296 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75.3 MB.
+System memory in use before: 75.4 MB.
 System memory in use after: 75.0 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1748.
-Total: 4.076800 ms (FindLiveObjects: 0.309400 ms CreateObjectMapping: 0.068500 ms MarkObjects: 2.821000 ms  DeleteObjects: 0.875700 ms)
+Total: 4.006600 ms (FindLiveObjects: 0.416100 ms CreateObjectMapping: 0.088500 ms MarkObjects: 2.786600 ms  DeleteObjects: 0.712700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass2.mat
-  artifactKey: Guid(40fa712b5d4cf4a5796e168bcbc69843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass2.mat using Guid(40fa712b5d4cf4a5796e168bcbc69843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c504b1a3bfb1bb8f1da3366fc14d0fc') in 0.272253 seconds
-  Import took 0.289414 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.20.mat
-  artifactKey: Guid(2077479c9fc4e66459aae586618d1dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.20.mat using Guid(2077479c9fc4e66459aae586618d1dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3429dacde3e5ae95664e3bafc235c99') in 0.026543 seconds
-  Import took 0.031042 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.21.mat
-  artifactKey: Guid(928d85508dd40d747bfdf44219e6793e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.21.mat using Guid(928d85508dd40d747bfdf44219e6793e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a85e505de7d62fea19172a054e8668') in 0.024042 seconds
-  Import took 0.029122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 80.377572 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Textures/Paintings/Painting 10.mat
-  artifactKey: Guid(e0fd521b72025460d94526d48942acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Textures/Paintings/Painting 10.mat using Guid(e0fd521b72025460d94526d48942acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf38f18dbe57882bdc63048f38830fd6') in 0.100660 seconds
-  Import took 0.106657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003394 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Textures/Paintings/Painting 10.mat
-  artifactKey: Guid(e0fd521b72025460d94526d48942acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Textures/Paintings/Painting 10.mat using Guid(e0fd521b72025460d94526d48942acfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf38f18dbe57882bdc63048f38830fd6') in 0.023057 seconds
-  Import took 0.028884 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55.520403 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.18.mat
-  artifactKey: Guid(715edbb7a423ac04bba7bdf8f58837d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.18.mat using Guid(715edbb7a423ac04bba7bdf8f58837d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a1784317bb2c0ebb1871b123244102') in 0.026034 seconds
-  Import took 0.029732 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.19.mat
-  artifactKey: Guid(cfe9f88b0f1bd6442b0f8e1edb2a58f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.19.mat using Guid(cfe9f88b0f1bd6442b0f8e1edb2a58f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc3ba9e995b424eb68ea543019d3928') in 0.028041 seconds
-  Import took 0.032836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.16.mat
-  artifactKey: Guid(8e290153bbc327e4e85794ff78809157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.16.mat using Guid(8e290153bbc327e4e85794ff78809157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce911f1573db32842b335d897e0134ae') in 0.032365 seconds
-  Import took 0.036985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.15.mat
-  artifactKey: Guid(763b7ae8a0e63d94a97ae0ff35ce0d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.15.mat using Guid(763b7ae8a0e63d94a97ae0ff35ce0d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a19e01ba14427c9315daf17faa85332') in 0.025038 seconds
-  Import took 0.028769 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.12.mat
-  artifactKey: Guid(142ae684612ada24c8763b7cc2a43f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.12.mat using Guid(142ae684612ada24c8763b7cc2a43f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009df7a7ef0ba6d84078a244ef4f71e9') in 0.023053 seconds
-  Import took 0.027264 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000413 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.10.mat
-  artifactKey: Guid(6dad27a3614668549876027e166de9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.10.mat using Guid(6dad27a3614668549876027e166de9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17309fc4f1f0d5b1fb52c7619c78cee9') in 0.023483 seconds
-  Import took 0.031657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000392 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.14.mat
-  artifactKey: Guid(9a23edbd156de2a45bdb86c93eb04350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.14.mat using Guid(9a23edbd156de2a45bdb86c93eb04350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b43ea2302e7cb709d48c8af058613a9') in 0.030538 seconds
-  Import took 0.035478 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000592 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.11.mat
-  artifactKey: Guid(8ca797b3d1b49054c89501e20dc27137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.11.mat using Guid(8ca797b3d1b49054c89501e20dc27137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53487cdcc8690c79782f9bc0a9be18c') in 0.024686 seconds
-  Import took 0.029037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000418 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.13.mat
-  artifactKey: Guid(a9c41f3a25b2293489c9b132062a6676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.13.mat using Guid(a9c41f3a25b2293489c9b132062a6676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dadb250b4a0b013afd621d375632171') in 0.023508 seconds
-  Import took 0.027122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.17.mat
-  artifactKey: Guid(4df3e54bf2ba2b64a9d35cd9e1aa08af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.17.mat using Guid(4df3e54bf2ba2b64a9d35cd9e1aa08af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8a2d9e495226aa41ec92b5f8331a12') in 0.023869 seconds
-  Import took 0.028119 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008437 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.17.mat
-  artifactKey: Guid(4df3e54bf2ba2b64a9d35cd9e1aa08af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.17.mat using Guid(4df3e54bf2ba2b64a9d35cd9e1aa08af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8a2d9e495226aa41ec92b5f8331a12') in 0.013951 seconds
-  Import took 0.017758 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.046273 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.4.mat
-  artifactKey: Guid(e3b18ba1f5d76124fb63fdaf54db256a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.4.mat using Guid(e3b18ba1f5d76124fb63fdaf54db256a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ca71560687eeee3dc8f34b69c65b6d') in 0.020001 seconds
-  Import took 0.024396 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.9.mat
-  artifactKey: Guid(745c79bd68cc4f441bb3c124b92477da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.9.mat using Guid(745c79bd68cc4f441bb3c124b92477da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe87e177e19efa945938ede02453b7a') in 0.019973 seconds
-  Import took 0.023378 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.8.mat
-  artifactKey: Guid(a6cc9bc03799d3842a1e50fa01729355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.8.mat using Guid(a6cc9bc03799d3842a1e50fa01729355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e5619ae2dbcc6f0f72f48f713336c1') in 0.020826 seconds
-  Import took 0.024647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.7.mat
-  artifactKey: Guid(3ad091b4f7f9a304fa626d044bf8c507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.7.mat using Guid(3ad091b4f7f9a304fa626d044bf8c507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bca6f6702a791e65dd5b2d780ed021a') in 0.020548 seconds
-  Import took 0.024209 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.2.mat
-  artifactKey: Guid(9bd626a32e1e01a4887b547a37bd9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.2.mat using Guid(9bd626a32e1e01a4887b547a37bd9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc910aea380e509144335d4aa7456e8b') in 0.022588 seconds
-  Import took 0.026675 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.1.mat
-  artifactKey: Guid(6a1794a413ad67f48a7995dabc41bc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.1.mat using Guid(6a1794a413ad67f48a7995dabc41bc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce070477444d31ef6d1f82f518799208') in 0.033236 seconds
-  Import took 0.037458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.6.mat
-  artifactKey: Guid(373232c0d7318c94fa1a6c500b718d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.6.mat using Guid(373232c0d7318c94fa1a6c500b718d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982e65c06ce66ae41d18e16a42fbe91c') in 0.020480 seconds
-  Import took 0.024226 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.5.mat
-  artifactKey: Guid(69a0806ce5de8ab4a82d99ddf166072f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.5.mat using Guid(69a0806ce5de8ab4a82d99ddf166072f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855d094bf2185d866558fb780e59acfb') in 0.030800 seconds
-  Import took 0.034582 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000399 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.3.mat
-  artifactKey: Guid(c8514d9d2c41be646960e1c5e0c41877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.3.mat using Guid(c8514d9d2c41be646960e1c5e0c41877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b206a8cc4835abd47b984db5eadb4d75') in 0.019862 seconds
-  Import took 0.023793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/FlashlightSurface_Color.mat
-  artifactKey: Guid(fa9cd87f0187f42a4bb611b467452b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/FlashlightSurface_Color.mat using Guid(fa9cd87f0187f42a4bb611b467452b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d0df08d32bf167d664aee8e2bed84d4') in 0.022041 seconds
-  Import took 0.025756 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000708 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.mat
-  artifactKey: Guid(170ea5691f0534f83a5c5ba32b8fc297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Glass.mat using Guid(170ea5691f0534f83a5c5ba32b8fc297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dfcc052acdeb697656567f386341c0') in 0.021034 seconds
-  Import took 0.024585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Guard/Flashlight_Surface_Mat.mat
-  artifactKey: Guid(7e3e344a97a43458384426f4c980702c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Guard/Flashlight_Surface_Mat.mat using Guid(7e3e344a97a43458384426f4c980702c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a729b0546f328aeb0275f6557ef473') in 0.081973 seconds
-  Import took 0.086184 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.972161 seconds.
-  path: Assets/The Great Fleece/Game/Effects/LightFlares/Materials/Flare50mm.mat
-  artifactKey: Guid(a6dbb96b9d112024d000e929e39e7c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Effects/LightFlares/Materials/Flare50mm.mat using Guid(a6dbb96b9d112024d000e929e39e7c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f379686bd8f2d8c9bdc5e47e7cadd9ea') in 0.117692 seconds
-  Import took 0.121868 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/SecurityGuard/FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(60b34444778644162b202f2ac89f8911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/SecurityGuard/FBX/Materials/eyeTexture.mat using Guid(60b34444778644162b202f2ac89f8911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fc2a54ff3f81e8814e718b7783faf8') in 0.025860 seconds
-  Import took 0.030068 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Case/Felt_Wood_Mat.mat
-  artifactKey: Guid(672710a8e64334982b23481cc987262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Case/Felt_Wood_Mat.mat using Guid(672710a8e64334982b23481cc987262f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2addaeb574a4d2e5d121a78772a976a') in 0.078906 seconds
-  Import took 0.082391 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/_Translucent_Glass_Gray_2.mat
-  artifactKey: Guid(df1d68c0b76ec0a48aaa1ee6a856ff7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/_Translucent_Glass_Gray_2.mat using Guid(df1d68c0b76ec0a48aaa1ee6a856ff7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cac452396ff73ae5b5f3db705ee1a2c') in 0.020666 seconds
-  Import took 0.024654 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat
-  artifactKey: Guid(31aca48dc24eb4bfdb620681793ba751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat using Guid(31aca48dc24eb4bfdb620681793ba751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad69ae1ffd04672a9cce81821aef22d') in 0.023908 seconds
-  Import took 0.027662 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Body_Color_1.mat
-  artifactKey: Guid(ccf3bd7f5dbb14c54b19b3e8d8fe2ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Body_Color_1.mat using Guid(ccf3bd7f5dbb14c54b19b3e8d8fe2ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c7ed3ef42baa6df9a212a62ac2c769') in 0.020199 seconds
-  Import took 0.024309 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Guard/Flash_Light_Mat.mat
-  artifactKey: Guid(e75188e4b848a40f0b9402eeea1954d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Guard/Flash_Light_Mat.mat using Guid(e75188e4b848a40f0b9402eeea1954d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c9c1cb41c49e04c3364b21fcbb61b1') in 0.089354 seconds
-  Import took 0.093003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Body_Color_1.mat
-  artifactKey: Guid(d16f27b94c03d430dba4c90bdecdc1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Body_Color_1.mat using Guid(d16f27b94c03d430dba4c90bdecdc1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beff1beb38a9a479f71fac62eb1a6b15') in 0.012471 seconds
-  Import took 0.016203 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Mat.mat
-  artifactKey: Guid(a3526205b7ef841de9674f0d475156c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Mat.mat using Guid(a3526205b7ef841de9674f0d475156c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a403295c04ff729ffa1116b82b47e79') in 0.020142 seconds
-  Import took 0.023997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000550 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Flame_Mat.mat
-  artifactKey: Guid(ab2512b2ad15a4993841f409bfb4bb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Flame_Mat.mat using Guid(ab2512b2ad15a4993841f409bfb4bb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3debdb2868b198b5c2277423fa5636') in 0.022950 seconds
-  Import took 0.026831 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000367 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(279784252a6a84457a0c417fae302932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/eyeTexture.mat using Guid(279784252a6a84457a0c417fae302932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd908aea532d4240f594b72e44a82d161') in 0.013189 seconds
-  Import took 0.036095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000367 seconds.
-  path: Assets/The Great Fleece/Game/Skybox/CityCube.mat
-  artifactKey: Guid(9bfe2843c91e84cfb8cb91c4eae22095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Skybox/CityCube.mat using Guid(9bfe2843c91e84cfb8cb91c4eae22095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d44ca65b5ee8546ccde3f38160357d') in 0.195475 seconds
-  Import took 0.199297 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000486 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Flame.mat
-  artifactKey: Guid(fe7115e13b5fd4b4489b68e198ee0897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/Flame.mat using Guid(fe7115e13b5fd4b4489b68e198ee0897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6892b5e268bd9fc6c693b296bb487ac6') in 0.020588 seconds
-  Import took 0.024112 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Black_Marble_Column.mat
-  artifactKey: Guid(bc21bff59d8b247feb08a6e8df7e5e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Black_Marble_Column.mat using Guid(bc21bff59d8b247feb08a6e8df7e5e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51f2c5a0969101ee0931fc8ea42a28e') in 0.028991 seconds
-  Import took 0.032993 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000443 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Case/Case_Base_Mat.mat
-  artifactKey: Guid(3315e4091443e42a390caea80cf0ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Case/Case_Base_Mat.mat using Guid(3315e4091443e42a390caea80cf0ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82439969cd1896de48b82ecef1cd948e') in 0.024017 seconds
-  Import took 0.028606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Earpiece.mat
-  artifactKey: Guid(43fb454cc934144459f645f940f9a9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Earpiece.mat using Guid(43fb454cc934144459f645f940f9a9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d39bdb9e58872e83480328430d15734') in 0.021757 seconds
-  Import took 0.025147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/CardSurface_Color.mat
-  artifactKey: Guid(8b482aa387e294553a20680aee46cdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/CardSurface_Color.mat using Guid(8b482aa387e294553a20680aee46cdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ea7e786a744d1c016c63651411e7d6') in 0.048122 seconds
-  Import took 0.061577 seconds .
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-7_comp_light.exr
+  artifactKey: Guid(0af325419ef3a4fbc9824ca2b0ed2aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-7_comp_light.exr using Guid(0af325419ef3a4fbc9824ca2b0ed2aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a662a9df64495aba1420271e264057') in 0.382655 seconds
+  Import took 0.387045 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000345 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Darren_Legs_Color_1.mat
-  artifactKey: Guid(80b3448c748184cd19680f9a841ed1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Darren_Legs_Color_1.mat using Guid(80b3448c748184cd19680f9a841ed1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b5846a77a171507aee26e0ac1bba97') in 0.015000 seconds
-  Import took 0.018835 seconds .
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-4_comp_light.exr
+  artifactKey: Guid(fdaeb696e5c53460eb044e5daf21bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-4_comp_light.exr using Guid(fdaeb696e5c53460eb044e5daf21bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49052ed4c7703e627de20d3182913ddb') in 0.054617 seconds
+  Import took 0.058775 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraHolderSurface_Color.mat
-  artifactKey: Guid(86f31beddd3554fa6a5f8203fe06cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraHolderSurface_Color.mat using Guid(86f31beddd3554fa6a5f8203fe06cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e732e83cb7f26b22d251a6eb2a851e5e') in 0.101995 seconds
-  Import took 0.105747 seconds .
+  Time since last request: 0.000345 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-17_comp_light.exr
+  artifactKey: Guid(e37aeaddf9a214f41852374a02ebb614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-17_comp_light.exr using Guid(e37aeaddf9a214f41852374a02ebb614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e847e627ae6a894065ad4d8e48e1b07b') in 0.034200 seconds
+  Import took 0.042241 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/BlackMarbleColumn.mat
-  artifactKey: Guid(9319eed92542742fd9cf1bce681f262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/BlackMarbleColumn.mat using Guid(9319eed92542742fd9cf1bce681f262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae5cca5270b72d5d0137fd5622bae2b') in 0.017749 seconds
-  Import took 0.021277 seconds .
+  Time since last request: 0.000957 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-12_comp_light.exr
+  artifactKey: Guid(e24fafa83214740e7917cf69f0c77e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-12_comp_light.exr using Guid(e24fafa83214740e7917cf69f0c77e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96188b880b45da3643b25ce456bae760') in 0.038283 seconds
+  Import took 0.046178 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000618 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(6d576a1e35b454d879ea3274dc69cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/eyeTexture.mat using Guid(6d576a1e35b454d879ea3274dc69cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c684fb391955c5988a77977405fc70') in 0.018220 seconds
-  Import took 0.021927 seconds .
+  Time since last request: 0.000555 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-2.exr
+  artifactKey: Guid(acc4370567f8a42dd82ad0ac016df3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-2.exr using Guid(acc4370567f8a42dd82ad0ac016df3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b02991b56c685ec34b6968c3f9815f') in 0.207291 seconds
+  Import took 0.212328 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000378 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CandleWax.mat
-  artifactKey: Guid(dafb85d3b2269460c96450a785ba975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CandleWax.mat using Guid(dafb85d3b2269460c96450a785ba975b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7691c2a4e64a94d6a84b2a920c8c68') in 0.026997 seconds
-  Import took 0.031091 seconds .
+  Time since last request: 0.000402 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Finished.unity
+  artifactKey: Guid(1ad4bfcf140b14db09ba5ba5f1b0c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Finished.unity using Guid(1ad4bfcf140b14db09ba5ba5f1b0c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4bd68c07c53e052fe2517ea5542e7c') in 0.012222 seconds
+  Import took 0.016241 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraSurface_Color.mat
-  artifactKey: Guid(afeb3740b32a9450c996e1303cd704cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraSurface_Color.mat using Guid(afeb3740b32a9450c996e1303cd704cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebb2b3190c60d07d61740ba5098afd7') in 0.069318 seconds
-  Import took 0.073126 seconds .
+  Time since last request: 0.000381 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-4.exr
+  artifactKey: Guid(c2d9705cc0a9b4d368db7b295a6bfce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-4.exr using Guid(c2d9705cc0a9b4d368db7b295a6bfce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0a51370469d4580eed15784fb5d9b9') in 0.049663 seconds
+  Import took 0.054582 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000391 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Darren_Legs_Color_1.mat
-  artifactKey: Guid(d68d0c2a1e07c427e980eea2b9bf8628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Darren_Legs_Color_1.mat using Guid(d68d0c2a1e07c427e980eea2b9bf8628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e80dee89deb1480fcafdf564e431421') in 0.013029 seconds
-  Import took 0.016577 seconds .
+  Time since last request: 0.000525 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-1_comp_light.exr
+  artifactKey: Guid(6c80fc1ffe9c74415b9d1db621a404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-1_comp_light.exr using Guid(6c80fc1ffe9c74415b9d1db621a404da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cdf1751d9cb620563c577cc47d08094') in 0.033213 seconds
+  Import took 0.044173 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Eye_Mat.mat
-  artifactKey: Guid(7e45a596c884f40f1af45e0709abea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Eye_Mat.mat using Guid(7e45a596c884f40f1af45e0709abea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d4d338f766b11fc4f48a3390294081') in 0.037564 seconds
-  Import took 0.040916 seconds .
+  Time since last request: 0.000437 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-9_comp_light.exr
+  artifactKey: Guid(ca754b630865e459a915db8e93339a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-9_comp_light.exr using Guid(ca754b630865e459a915db8e93339a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74844358fc7f79cbf77af9991bc12cea') in 0.050555 seconds
+  Import took 0.058270 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/eyeTexture.mat
-  artifactKey: Guid(51ad8e78be5b74f0ba96592e7e123ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/eyeTexture.mat using Guid(51ad8e78be5b74f0ba96592e7e123ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2340025b2c7fb5c84b3488db10dcab7b') in 0.012659 seconds
-  Import took 0.016212 seconds .
+  Time since last request: 0.000327 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-14_comp_light.exr
+  artifactKey: Guid(4df96cf631c4f40ca8144580cdee8972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-14_comp_light.exr using Guid(4df96cf631c4f40ca8144580cdee8972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55dc7b3f6f8742fc598533b64614c846') in 0.030188 seconds
+  Import took 0.035338 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000297 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(c0e547776ca6641d78bee368ba9a669e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/eyeTexture.mat using Guid(c0e547776ca6641d78bee368ba9a669e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e212b316f094f6936d43f01ef14a72') in 0.014704 seconds
-  Import took 0.018762 seconds .
+  Time since last request: 0.000495 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-16_comp_light.exr
+  artifactKey: Guid(3caf574afb75d4b12956a9bf05b1a9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-16_comp_light.exr using Guid(3caf574afb75d4b12956a9bf05b1a9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4d1b8936931b63f3061e170408233e') in 0.023579 seconds
+  Import took 0.027864 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000359 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/Body_Color_1.mat
-  artifactKey: Guid(f75b571bba67f4e31915a32d96af41ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/Body_Color_1.mat using Guid(f75b571bba67f4e31915a32d96af41ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a057d9049397f0ed5d16701870722a23') in 0.012771 seconds
-  Import took 0.017406 seconds .
+  Time since last request: 0.000351 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start.unity
+  artifactKey: Guid(eabbaef49517b4492a59e9e349a6cdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start.unity using Guid(eabbaef49517b4492a59e9e349a6cdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54a13481ba57d4976cfdf1b0e1de34c') in 0.019432 seconds
+  Import took 0.023729 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000356 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Darren_Legs_Mat.mat
-  artifactKey: Guid(cf1b315b751d84093ae576b4b825a3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Darren_Legs_Mat.mat using Guid(cf1b315b751d84093ae576b4b825a3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179bf279efce7ad2bf1600b445805096') in 0.108756 seconds
-  Import took 0.112513 seconds .
+  Time since last request: 0.000369 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-0.exr
+  artifactKey: Guid(2087e6e3a86934986898c0afc7d1cd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-0.exr using Guid(2087e6e3a86934986898c0afc7d1cd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7815eca3ac0ce91b18fc320493b5d57d') in 0.059985 seconds
+  Import took 0.065233 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat
-  artifactKey: Guid(10a28564e7b924fd4bb053a0117895c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat using Guid(10a28564e7b924fd4bb053a0117895c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd444b93e5b8bf76db8d3a0f73611fb3e') in 0.015198 seconds
-  Import took 0.018418 seconds .
+  Time since last request: 0.000472 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-10_comp_light.exr
+  artifactKey: Guid(5db16a2917a9a465db7b94252046a02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-10_comp_light.exr using Guid(5db16a2917a9a465db7b94252046a02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a992deaa24330cddbd606d86bcb42f51') in 0.039902 seconds
+  Import took 0.045260 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/Body_Color_1.mat
-  artifactKey: Guid(a361f70c38c5b41149fef5ed809773ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/Body_Color_1.mat using Guid(a361f70c38c5b41149fef5ed809773ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4dbd1e8de4bb4b0f2d1cae9f278293') in 0.012735 seconds
-  Import took 0.016437 seconds .
+  Time since last request: 0.000506 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-2_comp_light.exr
+  artifactKey: Guid(c2d1856158f6c422ebc56701e0e1b89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-2_comp_light.exr using Guid(c2d1856158f6c422ebc56701e0e1b89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275067f8602686e42b2f46f9ac02dc88') in 0.060668 seconds
+  Import took 0.069202 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/FeltWoodCase.mat
-  artifactKey: Guid(b72af58c0e0394477afb90e7cba3a88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/FeltWoodCase.mat using Guid(b72af58c0e0394477afb90e7cba3a88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4492c38cb0b34895cae814be5ede18') in 0.022293 seconds
-  Import took 0.026148 seconds .
+  Time since last request: 0.000577 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-8_comp_light.exr
+  artifactKey: Guid(35efc7625c870449293e228a74c3b307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-8_comp_light.exr using Guid(35efc7625c870449293e228a74c3b307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcc064e2f258dfffe1d259fa28bdb67') in 0.031529 seconds
+  Import took 0.035493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-5_comp_light.exr
+  artifactKey: Guid(15523fabe68a047a7b74c122df8d7e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-5_comp_light.exr using Guid(15523fabe68a047a7b74c122df8d7e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8ff28f043624f5e88d9c32ad0103c4') in 0.071098 seconds
+  Import took 0.075827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-3.exr
+  artifactKey: Guid(3b737abd7aa0545f484fc047f675fb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-3.exr using Guid(3b737abd7aa0545f484fc047f675fb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf8de4b714288c3f99f276ac6a74385') in 0.043230 seconds
+  Import took 0.049138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-13_comp_light.exr
+  artifactKey: Guid(92931de5dd86b44818f4df3b336ed305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-13_comp_light.exr using Guid(92931de5dd86b44818f4df3b336ed305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e486c16c106e976854e45bf324c4be52') in 0.055778 seconds
+  Import took 0.060720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-11_comp_light.exr
+  artifactKey: Guid(6cdad7aa5f0704a32a2eec7dd67456c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-11_comp_light.exr using Guid(6cdad7aa5f0704a32a2eec7dd67456c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54229575f80920433f0edf0c3ca6a682') in 0.028192 seconds
+  Import took 0.038365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-0_comp_light.exr
+  artifactKey: Guid(a4e3ec223f7374ae3ae27ebc1b88a78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-0_comp_light.exr using Guid(a4e3ec223f7374ae3ae27ebc1b88a78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3574368885ab61831caa64eacdfa6a85') in 0.035937 seconds
+  Import took 0.040178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-6_comp_light.exr
+  artifactKey: Guid(26a37f06d852a49c897ee206efa6c68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-6_comp_light.exr using Guid(26a37f06d852a49c897ee206efa6c68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1058ea69b3e953decb110389858f6b') in 0.038312 seconds
+  Import took 0.053033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-15_comp_light.exr
+  artifactKey: Guid(c10404562e3704c3c8dfe4476ed2ab71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-15_comp_light.exr using Guid(c10404562e3704c3c8dfe4476ed2ab71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550bffd06b57be96dc838b37f0b3b3b8') in 0.034734 seconds
+  Import took 0.043191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/LightingData.asset
+  artifactKey: Guid(0036f86b42d774d939318b99a871a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/LightingData.asset using Guid(0036f86b42d774d939318b99a871a27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9888f3e48b499a7d0d1f74862c1c1e4d') in 0.132547 seconds
+  Import took 0.140747 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000318 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Earpiece.mat
-  artifactKey: Guid(cc4ec89c16d564d5b90523791a286295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/Earpiece.mat using Guid(cc4ec89c16d564d5b90523791a286295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a880003042be9d78e241a1f127ea382') in 0.012364 seconds
-  Import took 0.015831 seconds .
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-1.exr
+  artifactKey: Guid(85f0ed97d8fb649939529ffc1813cd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/ReflectionProbe-1.exr using Guid(85f0ed97d8fb649939529ffc1813cd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527a8f875e0dad2d912a530bbc6ea722') in 0.058122 seconds
+  Import took 0.062880 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Candle_Wax_Mat.mat
-  artifactKey: Guid(61600d69f5c924d709449665521c2f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Candle_Wax_Mat.mat using Guid(61600d69f5c924d709449665521c2f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5a1283fd02c0be5c3d68c3207cc371') in 0.023500 seconds
-  Import took 0.027861 seconds .
+  Time since last request: 0.000421 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-3_comp_light.exr
+  artifactKey: Guid(41c8d2a4f7196474281acf7072979d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Start/Lightmap-3_comp_light.exr using Guid(41c8d2a4f7196474281acf7072979d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5caf588cfbd1e213b1869ae87de1b003') in 0.053040 seconds
+  Import took 0.056920 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CaseBaseColor.mat
-  artifactKey: Guid(b4e5e01159eec43f5a292e096496a3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CaseBaseColor.mat using Guid(b4e5e01159eec43f5a292e096496a3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73136d735eb8f732edfc54c29d747315') in 0.018433 seconds
-  Import took 0.021874 seconds .
+  Time since last request: 919.838096 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning
+  artifactKey: Guid(7eca112a4f32b0e4b97c630e43e7c2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning using Guid(7eca112a4f32b0e4b97c630e43e7c2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1803bd1a7754c3c7d4ce1b2632689fdb') in 0.015900 seconds
+  Import took 0.020014 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Darren_Head_Mat.mat
-  artifactKey: Guid(aec5ef11fc4b14a579a70d6517a4cc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Darren_Head_Mat.mat using Guid(aec5ef11fc4b14a579a70d6517a4cc60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154881bb45bc36786b0c37fbeeb8aeb0') in 0.143511 seconds
-  Import took 0.147019 seconds .
+  Time since last request: 0.006122 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning
+  artifactKey: Guid(7eca112a4f32b0e4b97c630e43e7c2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning using Guid(7eca112a4f32b0e4b97c630e43e7c2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1803bd1a7754c3c7d4ce1b2632689fdb') in 0.017344 seconds
+  Import took 0.020976 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000411 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Earpiece.mat
-  artifactKey: Guid(e24baef5dc1cf42b29c6498ca81c63af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Characters/Darren/FBX/Materials/Earpiece.mat using Guid(e24baef5dc1cf42b29c6498ca81c63af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4861a021a35a1a8f6d48f087740a8095') in 0.011845 seconds
-  Import took 0.015246 seconds .
+  Time since last request: 27.294356 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Materials/skybox_mat.mat
+  artifactKey: Guid(06952f7864910a3438cb0e6593592fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Materials/skybox_mat.mat using Guid(06952f7864910a3438cb0e6593592fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3faf7c9b19872c423cd946d5583af2b3') in 0.058599 seconds
+  Import took 0.062041 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Body_Color_1.mat
-  artifactKey: Guid(6d522f982ad44467db610bc8488914fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Captured_FBX/Materials/Body_Color_1.mat using Guid(6d522f982ad44467db610bc8488914fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfec6ac725b4799a1278716f40fd78c1') in 0.013399 seconds
-  Import took 0.016877 seconds .
+  Time since last request: 22.126378 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_0.png
+  artifactKey: Guid(fb948ac1764f04cd59a92f3280f9b024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_0.png using Guid(fb948ac1764f04cd59a92f3280f9b024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2157a2714c46729cccbfe9e7acb75ffc') in 0.115508 seconds
+  Import took 0.121000 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat
-  artifactKey: Guid(01faa1f19917e4b99981d571f6572b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Start_Level_Cutscene_FBX/Materials/Darren_Legs_Color_1.mat using Guid(01faa1f19917e4b99981d571f6572b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737fca9c38cf6c817cbe49a7c90696f1') in 0.016809 seconds
-  Import took 0.020712 seconds .
+  Time since last request: 0.000344 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_4.png
+  artifactKey: Guid(8893c24ed48a44154a4a787b1c8c2ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_4.png using Guid(8893c24ed48a44154a4a787b1c8c2ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a771def866fe11e5ab397876bb0315') in 0.030294 seconds
+  Import took 0.035452 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(cce8792a37ef84812b3d2c4bac18464a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/Get_Card_Cutscene_FBX/Materials/eyeTexture.mat using Guid(cce8792a37ef84812b3d2c4bac18464a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc9b7c6125cae0359829cee7ab9ec04') in 0.013058 seconds
-  Import took 0.016826 seconds .
+  Time since last request: 0.000476 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_1.png
+  artifactKey: Guid(165935f99ad3345e1b493d05df1d73d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_1.png using Guid(165935f99ad3345e1b493d05df1d73d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc08a48545aca30796903c54d365b57b') in 0.038576 seconds
+  Import took 0.044884 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000313 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/eyeTexture.mat
-  artifactKey: Guid(b3da64baa30824303819d08b57157b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Cutscenes_FBX/End_Level_Cutscene_FBX/Materials/eyeTexture.mat using Guid(b3da64baa30824303819d08b57157b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388be7c4af89c48c7b96e52d2f3d0dfd') in 0.012850 seconds
-  Import took 0.016335 seconds .
+  Time since last request: 0.000361 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_3.png
+  artifactKey: Guid(a1548614e37c5432eb24164691a43cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_3.png using Guid(a1548614e37c5432eb24164691a43cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d77556e7b27b95e98c54bfdb27a1c01') in 0.034808 seconds
+  Import took 0.039975 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Cone_Green_Light_Mat.mat
-  artifactKey: Guid(092de8c1418da4755ab99feb85e3c3e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Cone_Green_Light_Mat.mat using Guid(092de8c1418da4755ab99feb85e3c3e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f70f176928a079823410c32eae01d2e') in 0.032915 seconds
-  Import took 0.037091 seconds .
+  Time since last request: 0.000577 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_5.png
+  artifactKey: Guid(467e404195470482c9c8c7f632635706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_5.png using Guid(467e404195470482c9c8c7f632635706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6fb81d81e5786977b1ab032a8bd638e') in 0.027396 seconds
+  Import took 0.031024 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Earpiece_Mat.mat
-  artifactKey: Guid(a285841137bcf42d091a041e3a1c2aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Character/Darren/Earpiece_Mat.mat using Guid(a285841137bcf42d091a041e3a1c2aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2378cc08d75542e6df33f7512e914f5c') in 0.023497 seconds
-  Import took 0.027056 seconds .
+  Time since last request: 0.001534 seconds.
+  path: Assets/The Great Fleece/Game/Skybox/cubemap_cube_2.png
+  artifactKey: Guid(5c98b29760d364c5aa8da210f0cc03d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Skybox/cubemap_cube_2.png using Guid(5c98b29760d364c5aa8da210f0cc03d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c78be9d2859d795d0b0e9f780eceaba') in 0.034113 seconds
+  Import took 0.037948 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000325 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraConeGreen.mat
-  artifactKey: Guid(bc08115ad211e4a6eb44ed74b9bda495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CameraConeGreen.mat using Guid(bc08115ad211e4a6eb44ed74b9bda495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06fe8300908fe567c6917d291c2cb7e') in 0.019234 seconds
-  Import took 0.023970 seconds .
+  Time since last request: 218.887037 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Learning/Materials/skybox_mat.mat
+  artifactKey: Guid(06952f7864910a3438cb0e6593592fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Materials/skybox_mat.mat using Guid(06952f7864910a3438cb0e6593592fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f1062448afe214fefdf36e69d8e4f6') in 0.060652 seconds
+  Import took 0.072748 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CardSurface_Color.mat
-  artifactKey: Guid(d97a1a10414b9425e821eaf6518d290c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Materials/CardSurface_Color.mat using Guid(d97a1a10414b9425e821eaf6518d290c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3efd8ac4679b48ff84caad409518718') in 0.020760 seconds
-  Import took 0.024654 seconds .
+  Time since last request: 915.179221 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset
+  artifactKey: Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset using Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8f3d471a2b2f4e222dd50e112c956c') in 0.046835 seconds
+  Import took 0.050495 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.468484 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Mount_Mat.mat
-  artifactKey: Guid(cc8bdea2a044844468a45bd6361c55ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Cameras/Camera_Mount_Mat.mat using Guid(cc8bdea2a044844468a45bd6361c55ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8067401b4d3cf49b9013ad13fe955472') in 0.026066 seconds
-  Import took 0.033637 seconds .
+  Time since last request: 0.000280 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset
+  artifactKey: Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset using Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1d166e9700d09325dd3119d2161d0a') in 0.028433 seconds
+  Import took 0.032169 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 120.675659 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Door_Mat.mat
-  artifactKey: Guid(5f571fd22c1524eab8e3de85730c7381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Door_Mat.mat using Guid(5f571fd22c1524eab8e3de85730c7381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a5cadfdaba084da284a93b1c7affad') in 0.042290 seconds
-  Import took 0.049114 seconds .
+  Time since last request: 0.000261 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_Profile.asset
+  artifactKey: Guid(1424e5ab37c0046868c6691a0d72cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_Profile.asset using Guid(1424e5ab37c0046868c6691a0d72cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cae23dd6c534ede48c0d1e43603c460') in 0.026069 seconds
+  Import took 0.029796 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/White_Wall_Mat.mat
-  artifactKey: Guid(e2cfeabf704e14d169ba3554b284c768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/White_Wall_Mat.mat using Guid(e2cfeabf704e14d169ba3554b284c768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e4585c6fb77caf5b991e7cd16bb659') in 0.028879 seconds
-  Import took 0.033376 seconds .
+  Time since last request: 0.000414 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset
+  artifactKey: Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Captured_Cutscene_Profile.asset using Guid(8c519d2ef0df3488784d04e763bca864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8f3d471a2b2f4e222dd50e112c956c') in 0.007329 seconds
+  Import took 0.010876 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Door_Mat.mat
-  artifactKey: Guid(5f571fd22c1524eab8e3de85730c7381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/Door_Mat.mat using Guid(5f571fd22c1524eab8e3de85730c7381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a5cadfdaba084da284a93b1c7affad') in 0.032877 seconds
-  Import took 0.039055 seconds .
+  Time since last request: 0.000314 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset
+  artifactKey: Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Depth_Of_Field_Hallway_Profile.asset using Guid(53a6497bbb27a47419130bda002a8a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1d166e9700d09325dd3119d2161d0a') in 0.006430 seconds
+  Import took 0.010302 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/White_Marble_Floor_Mat.mat
-  artifactKey: Guid(9e335ae8093b34890a9d8acb20f4f149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/Models/Dont_Touch/Materials/Environment/Level/White_Marble_Floor_Mat.mat using Guid(9e335ae8093b34890a9d8acb20f4f149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b219e99519e003e901cb11f86a7c503e') in 0.026079 seconds
-  Import took 0.032511 seconds .
+  Time since last request: 0.000399 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset
+  artifactKey: Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset using Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6b13e3cedd0fdd1e1720450afcdeb6') in 0.016396 seconds
+  Import took 0.020453 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1474.358641 seconds.
-  path: Assets/The Great Fleece/Game/_Scenes/Learning/Materials/glass_mat.mat
-  artifactKey: Guid(4420de8f5bbaefb4787ed4ca00e98078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/The Great Fleece/Game/_Scenes/Learning/Materials/glass_mat.mat using Guid(4420de8f5bbaefb4787ed4ca00e98078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7863aa2f935e71ba2424f9682294a052') in 0.149091 seconds
-  Import took 0.154999 seconds .
+  Time since last request: 0.019542 seconds.
+  path: Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset
+  artifactKey: Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Post_Processing_Profiles/Main_With_Depth_Of_Field_Profile.asset using Guid(280fa7a8d931e459da21c5ec3442c99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6b13e3cedd0fdd1e1720450afcdeb6') in 0.005762 seconds
+  Import took 0.010115 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
