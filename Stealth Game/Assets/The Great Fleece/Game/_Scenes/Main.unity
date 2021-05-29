@@ -1947,6 +1947,10 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 4780369898408609823, guid: f5fbed8b8feb5974da6de7edd04fb017, type: 2}
     value: {fileID: 2043896032}
+  - key: {fileID: 8861101255622264099, guid: f5fbed8b8feb5974da6de7edd04fb017, type: 2}
+    value: {fileID: 362408618}
+  - key: {fileID: -2480345085153139182, guid: f5fbed8b8feb5974da6de7edd04fb017, type: 2}
+    value: {fileID: 913199439}
   m_ExposedReferences:
     m_References:
     - d489c0dbc6fb9ab4bb5940bcea9eee5b: {fileID: 1322711273}
@@ -10194,6 +10198,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4347854795333050, guid: 0bf451d572cea480ab9fe760d16721e1,
     type: 3}
   m_PrefabInstance: {fileID: 359877146}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &362408618 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 95483830545951576, guid: 49be4103b035b448cb277ad3ac4b48f7,
+    type: 3}
+  m_PrefabInstance: {fileID: 74867678}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &362845258
 PrefabInstance:
@@ -19517,6 +19527,7 @@ GameObject:
   m_Component:
   - component: {fileID: 913199438}
   - component: {fileID: 913199437}
+  - component: {fileID: 913199439}
   m_Layer: 0
   m_Name: CMOverTheShoulderShot
   m_TagString: Untagged
@@ -19564,7 +19575,26 @@ Transform:
   - {fileID: 1546118452}
   m_Father: {fileID: 106497727}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 8.410519, y: 348.5612, z: 3.352913}
+--- !u!95 &913199439
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 913199436}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &915364036
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40522,8 +40552,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: -0.076495275, y: -0.8196626, z: 0.112652965, w: -0.556427}
-  m_LocalPosition: {x: -7.700982, y: 3.472371, z: -105.6705}
+  m_LocalRotation: {x: 0.11019686, y: -0.8848264, z: 0.26655725, w: 0.3659046}
+  m_LocalPosition: {x: 4.682, y: 4.415, z: -104.525}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
