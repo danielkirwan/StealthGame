@@ -85,3 +85,36 @@ Received Import Request.
 Start importing Assets/The Great Fleece/Director Notes/Captured.pdf using Guid(5bcb2fa08b6914f4d84f4bf83a497cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f9d2197155d6c2d473b72e413ca1ba') in 0.013549 seconds
   Import took 0.029960 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2764.320391 seconds.
+  path: Assets/The Great Fleece/Game/Prefabs/Cutscenes/GameOverCutSceneTimeline.playable
+  artifactKey: Guid(212e457fa36107d448b5379deb0762d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Prefabs/Cutscenes/GameOverCutSceneTimeline.playable using Guid(212e457fa36107d448b5379deb0762d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3ed580b28ab48753140373be2f8fca') in 0.027279 seconds
+  Import took 0.058432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005000 seconds.
+  path: Assets/The Great Fleece/Game/Prefabs/Cutscenes/GameOverCutSceneTimeline.playable
+  artifactKey: Guid(212e457fa36107d448b5379deb0762d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Prefabs/Cutscenes/GameOverCutSceneTimeline.playable using Guid(212e457fa36107d448b5379deb0762d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3ed580b28ab48753140373be2f8fca') in 0.004958 seconds
+  Import took 0.009124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.126780 seconds.
+  path: Assets/The Great Fleece/Game/Timeline/CM CamerasTimeline.playable
+  artifactKey: Guid(c06ee02e14751e844b86f95198afbde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Timeline/CM CamerasTimeline.playable using Guid(c06ee02e14751e844b86f95198afbde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395485331c92747b72ddf7be67ee9ff4') in 0.012079 seconds
+  Import took 0.021376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/The Great Fleece/Game/Timeline/SleepingGuardTimeline.playable
+  artifactKey: Guid(f5fbed8b8feb5974da6de7edd04fb017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Timeline/SleepingGuardTimeline.playable using Guid(f5fbed8b8feb5974da6de7edd04fb017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e330a14c248788d40f83f03718246410') in 0.072347 seconds
+  Import took 0.076757 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

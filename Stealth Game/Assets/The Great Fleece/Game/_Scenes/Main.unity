@@ -13815,7 +13815,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 582362908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.52, y: -1.37, z: -88.11}
+  m_LocalPosition: {x: -3.3, y: -1.37, z: -87.31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 488079192}
@@ -13844,8 +13844,8 @@ MonoBehaviour:
   - position: {x: 0, y: 0, z: 0.9710922}
     tangent: {x: 1.9209559, y: 0, z: 0}
     roll: 0
-  - position: {x: 9.371819, y: 0, z: 2.716713}
-    tangent: {x: 1, y: 0, z: 6.989731}
+  - position: {x: 9.062225, y: 0, z: 1.9985809}
+    tangent: {x: -1.0616531, y: -0.83039, z: 8.0937195}
     roll: 0
 --- !u!1001 &582437221
 PrefabInstance:
@@ -24817,6 +24817,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1214660211}
   - component: {fileID: 1214660210}
+  - component: {fileID: 1214660212}
   m_Layer: 0
   m_Name: CMFullShot
   m_TagString: Untagged
@@ -24857,14 +24858,33 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214660209}
-  m_LocalRotation: {x: -0.035566032, y: -0.27373874, z: -0.019410066, w: 0.9609503}
-  m_LocalPosition: {x: -3.5199995, y: -1.3699999, z: -87.11}
+  m_LocalRotation: {x: 0.029896613, y: -0.1778461, z: 0.0054057087, w: 0.98358923}
+  m_LocalPosition: {x: -3.3000002, y: -1.3699999, z: -86.338905}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1054953113}
   m_Father: {fileID: 488079192}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -4.53, y: -31.76, z: -1.025}
+--- !u!95 &1214660212
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1214660209}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1217072803
 GameObject:
   m_ObjectHideFlags: 0
@@ -26154,7 +26174,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322711272}
-  m_LocalRotation: {x: -0.046664458, y: 0.90851986, z: -0.10557116, w: -0.40158302}
+  m_LocalRotation: {x: -0.046664443, y: 0.90851986, z: -0.10557115, w: -0.401583}
   m_LocalPosition: {x: 2.50004, y: 1.6621528, z: -106.17374}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
