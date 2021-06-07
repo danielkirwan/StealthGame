@@ -12686,6 +12686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 458022451}
   - component: {fileID: 458022452}
+  - component: {fileID: 458022453}
   m_Layer: 0
   m_Name: CM DownRope
   m_TagString: Untagged
@@ -12700,7 +12701,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 458022450}
-  m_LocalRotation: {x: 0.20351669, y: 0.7951664, z: -0.37763527, w: 0.4285827}
+  m_LocalRotation: {x: 0.20351668, y: 0.7951664, z: -0.37763524, w: 0.4285827}
   m_LocalPosition: {x: -12.136925, y: 19.19946, z: 34.71106}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12734,6 +12735,25 @@ MonoBehaviour:
     FarClipPlane: 5000
     Dutch: 0
   m_ComponentOwner: {fileID: 1881017210}
+--- !u!95 &458022453
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 458022450}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &465949763
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20488,8 +20508,26 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 4034569000661488836, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
     value: {fileID: 1406903849}
+  - key: {fileID: -9021999496784576738, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
+    value: {fileID: 2043896032}
+  - key: {fileID: -473381155330156166, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
+    value: {fileID: 458022453}
   m_ExposedReferences:
-    m_References: []
+    m_References:
+    - f24b109872da04442bd8404c68b0ff37: {fileID: 201084650}
+    - 89623b89b5b322e4185d83349256ed4e: {fileID: 458022452}
+    - 86f30d0c54940b84c82c7aa0277f7bb1: {fileID: 737222345}
+    - 5399e61f3891d88419eacd2123b71741: {fileID: 1430782410}
+    - 3d7182c48643f4b4c9ed0b4a87cea0d4: {fileID: 700431712}
+    - e756da3b54ef2414e8ab86678a7d05ad: {fileID: 280132871}
+    - 7bf910e5fa3640a44b03d5fa404a73b4: {fileID: 727205767}
+    - 91e6c94a1e3139541bcd11bc94db8c60: {fileID: 547741795}
+    - 66e85e408dca0e94cb2faba0301d8239: {fileID: 1354675424}
+    - e9a72af8c8af18e4c9a3070be4e7934c: {fileID: 1777748245}
+    - c8afa606c0644a74fa427a5fb421045c: {fileID: 1619509217}
+    - 5f3058d6df8d1244daf48f60f609d47b: {fileID: 378258064}
+    - 599a234a5f508a24a83284627f2e4fbc: {fileID: 1903234358}
+    - 3c5797c93610ae6439c8ddc6215c7d99: {fileID: 325360020}
 --- !u!1001 &841907257
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28831,7 +28869,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322711272}
-  m_LocalRotation: {x: -0.046664458, y: 0.90851986, z: -0.10557116, w: -0.40158302}
+  m_LocalRotation: {x: -0.046664435, y: 0.90851986, z: -0.10557114, w: -0.40158293}
   m_LocalPosition: {x: 2.50004, y: 1.6621528, z: -106.17374}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -45740,7 +45778,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: -0.046664458, y: 0.90851986, z: -0.10557116, w: -0.40158302}
+  m_LocalRotation: {x: -0.04605747, y: 0.8967023, z: -0.10419794, w: 0.42858264}
   m_LocalPosition: {x: 2.50004, y: 1.6621528, z: -106.17374}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
