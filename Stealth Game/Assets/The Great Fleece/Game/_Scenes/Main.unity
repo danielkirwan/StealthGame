@@ -11205,6 +11205,7 @@ GameObject:
   m_Component:
   - component: {fileID: 378258063}
   - component: {fileID: 378258064}
+  - component: {fileID: 378258065}
   m_Layer: 0
   m_Name: CM CameraRise4
   m_TagString: Untagged
@@ -11219,8 +11220,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 378258062}
-  m_LocalRotation: {x: -0.014849386, y: -0.95778686, z: 0.050342213, w: -0.28264737}
-  m_LocalPosition: {x: -12.507675, y: 2.6597066, z: 40.242817}
+  m_LocalRotation: {x: -0.01038164, y: -0.9887652, z: 0.08283704, w: -0.1239906}
+  m_LocalPosition: {x: -8.984232, y: 1.66296, z: 36.262375}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1301537487}
@@ -11253,6 +11254,25 @@ MonoBehaviour:
     FarClipPlane: 5000
     Dutch: 0
   m_ComponentOwner: {fileID: 1301537487}
+--- !u!95 &378258065
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378258062}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &381454139
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20512,6 +20532,8 @@ PlayableDirector:
     value: {fileID: 2043896032}
   - key: {fileID: -473381155330156166, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
     value: {fileID: 458022453}
+  - key: {fileID: 8828959127283115922, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
+    value: {fileID: 378258065}
   m_ExposedReferences:
     m_References:
     - f24b109872da04442bd8404c68b0ff37: {fileID: 201084650}
@@ -45778,8 +45800,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: -0.04605747, y: 0.8967023, z: -0.10419794, w: 0.42858264}
-  m_LocalPosition: {x: 2.50004, y: 1.6621528, z: -106.17374}
+  m_LocalRotation: {x: 0.00034125472, y: -0.48010874, z: 0.080478735, w: 0.123990595}
+  m_LocalPosition: {x: -0.13298768, y: 10.757123, z: -62.075306}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
