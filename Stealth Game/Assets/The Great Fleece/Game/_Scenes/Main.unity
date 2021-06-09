@@ -14475,6 +14475,7 @@ GameObject:
   m_Component:
   - component: {fileID: 547741794}
   - component: {fileID: 547741795}
+  - component: {fileID: 547741796}
   m_Layer: 0
   m_Name: CM LookAtCameras9
   m_TagString: Untagged
@@ -14496,7 +14497,7 @@ Transform:
   - {fileID: 1412455702}
   m_Father: {fileID: 675907683}
   m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 5.720191, y: 0.0003951656, z: -0.0004067862}
 --- !u!114 &547741795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14523,6 +14524,25 @@ MonoBehaviour:
     FarClipPlane: 5000
     Dutch: 0
   m_ComponentOwner: {fileID: 1412455702}
+--- !u!95 &547741796
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 547741793}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &558707696
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20536,6 +20556,8 @@ PlayableDirector:
     value: {fileID: 378258065}
   - key: {fileID: 3901995288755327256, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
     value: {fileID: 1619509218}
+  - key: {fileID: 4014556169352546423, guid: d72f12af3740d1d41942b95f0a7ab53e, type: 2}
+    value: {fileID: 547741796}
   m_ExposedReferences:
     m_References:
     - f24b109872da04442bd8404c68b0ff37: {fileID: 201084650}
@@ -45822,8 +45844,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: 0.00069926895, y: -0.9837963, z: 0.16490993, w: -0.07034694}
-  m_LocalPosition: {x: -0.13298768, y: 10.757123, z: -62.075306}
+  m_LocalRotation: {x: 0.25882813, y: -0.9399551, z: 0.07772944, w: -0.52697384}
+  m_LocalPosition: {x: -1.7324994, y: 1.8342574, z: 22.45773}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
