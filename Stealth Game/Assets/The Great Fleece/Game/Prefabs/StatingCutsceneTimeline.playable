@@ -226,7 +226,7 @@ MonoBehaviour:
     m_Start: 13.05
     m_ClipIn: 0
     m_Asset: {fileID: 4647394103154889585}
-    m_Duration: 5
+    m_Duration: 7.649999999999999
     m_TimeScale: 1
     m_ParentTrack: {fileID: -9021999496784576738}
     m_EaseInDuration: 0
@@ -274,16 +274,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM WorthMillions5
   - m_Version: 1
-    m_Start: 22.15
+    m_Start: 20.7
     m_ClipIn: 0
     m_Asset: {fileID: -3808636362065595745}
-    m_Duration: 5
+    m_Duration: 5.050000000000001
     m_TimeScale: 1
     m_ParentTrack: {fileID: -9021999496784576738}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: -1
+    m_BlendOutDuration: 3.333333333333332
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -310,25 +310,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -343,15 +325,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM LookThroughGlass6
   - m_Version: 1
-    m_Start: 30
+    m_Start: 22.416666666666668
     m_ClipIn: 0
     m_Asset: {fileID: 5587853214746171193}
-    m_Duration: 5
+    m_Duration: 5.199999999999999
     m_TimeScale: 1
     m_ParentTrack: {fileID: -9021999496784576738}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: -1
+    m_BlendInDuration: 3.333333333333332
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -412,7 +394,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM ThroughGlassOut7
   - m_Version: 1
-    m_Start: 35
+    m_Start: 33.733333333333334
     m_ClipIn: 0
     m_Asset: {fileID: 7593319406449389674}
     m_Duration: 5
