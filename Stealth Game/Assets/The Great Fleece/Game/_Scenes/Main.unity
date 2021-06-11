@@ -13695,6 +13695,7 @@ GameObject:
   - component: {fileID: 506090202}
   - component: {fileID: 506090201}
   - component: {fileID: 506090205}
+  - component: {fileID: 506090206}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -13801,6 +13802,18 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &506090206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506090200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab8ca07d26f41d44a9b48699b305a59d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &516796220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20987,7 +21000,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &837928576
 Transform:
   m_ObjectHideFlags: 0
@@ -46530,7 +46543,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 5000
-  field of view: 60
+  field of view: 40
   orthographic: 0
   orthographic size: 10
   m_Depth: -1
@@ -46555,7 +46568,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043896029}
-  m_LocalRotation: {x: 0.72859776, y: -0.23091461, z: 0.09451418, w: 0.9544818}
+  m_LocalRotation: {x: 0.37565345, y: -0.1190559, z: 0.048730016, w: 0.91778845}
   m_LocalPosition: {x: 5.666455, y: 16.629875, z: 0.39056396}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
