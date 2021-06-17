@@ -15,9 +15,6 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if left click
-        //get mouse hit position using a raycast
-        //debug hit position
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -26,7 +23,7 @@ public class Player : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit))
             {
-                Debug.Log("Hit: " + hit.point);
+                //Debug.Log("Hit: " + hit.point);
                 //GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
                 //cube.transform.position = hit.point;
                 player.SetDestination(hit.point);
@@ -34,9 +31,5 @@ public class Player : MonoBehaviour
         }
 
     }
-
-
-
-
 
 }
