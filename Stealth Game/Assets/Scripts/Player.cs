@@ -50,10 +50,8 @@ public class Player : MonoBehaviour
     private void CheckDestinationReached()
     {
         float distanceToTarget = Vector3.Distance(transform.position, _targetPosition);
-        Debug.Log("Distance: " + distanceToTarget);
         if(distanceToTarget < _destinationThreshold)
         {
-            Debug.Log("Should be idle");
             _anim.SetBool("Walk", false);
             _isWalking = false;
         }
