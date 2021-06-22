@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     float _destinationThreshold = 1f;
     Vector3 _targetPosition;
+    [SerializeField] GameObject _coin;
+    [SerializeField] AudioSource _coinDrop;
     void Start()
     {
         player = GetComponent<NavMeshAgent>();
@@ -42,7 +44,17 @@ public class Player : MonoBehaviour
         {
             CheckDestinationReached();
         }
-        
+
+        if (Input.GetMouseButtonDown(1))
+        {
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+            if(Physics.Raycast(ray, out hit))
+            {
+                Instantiate(_coin, hit.point, Quaternion.identity);
+                _coinDrop.Play();
+            }
+        }
 
     }
 
