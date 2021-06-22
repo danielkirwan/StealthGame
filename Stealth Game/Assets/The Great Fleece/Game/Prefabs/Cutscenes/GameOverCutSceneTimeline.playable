@@ -326,7 +326,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.51666665
+        time: 0.95
         value: 0
         inSlope: 0
         outSlope: 0
@@ -409,7 +409,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.51666665
+        time: 0.95
         value: 0
         inSlope: 0
         outSlope: 0
@@ -907,13 +907,13 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -6775011276507256363}
-    m_Duration: 3.033333333333333
+    m_Duration: 3.966666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1783323015318230403}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 0.06666666666666643
+    m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -973,15 +973,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CMFullShot
   - m_Version: 1
-    m_Start: 2.966666666666667
+    m_Start: 3.966666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 2180357327527267071}
-    m_Duration: 7.033333333333335
+    m_Duration: 6.650000000000002
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1783323015318230403}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 0.06666666666666643
+    m_BlendInDuration: -1
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2

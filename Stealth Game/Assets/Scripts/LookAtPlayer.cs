@@ -6,6 +6,7 @@ public class LookAtPlayer : MonoBehaviour
 {
 
     [SerializeField] Transform _target;
+
     // Update is called once per frame
     void Update()
     {
