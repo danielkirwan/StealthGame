@@ -15,7 +15,10 @@ public class GuardAI : MonoBehaviour
     void Start()
     {
         _anim = GetComponent<Animator>();
-        
+        if(_anim == null)
+        {
+            Debug.Log("animator null");
+        }
     }
 
     // Update is called once per frame
