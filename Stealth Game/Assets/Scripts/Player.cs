@@ -12,7 +12,10 @@ public class Player : MonoBehaviour
     float _destinationThreshold = 1f;
     Vector3 _targetPosition;
     [SerializeField] GameObject _coin;
-    [SerializeField] AudioSource _coinDrop;
+    [SerializeField] AudioClip _coinDrop;
+    private bool _coinThrown;
+
+
     void Start()
     {
         player = GetComponent<NavMeshAgent>();
@@ -45,17 +48,42 @@ public class Player : MonoBehaviour
             CheckDestinationReached();
         }
 
-        if (Input.GetMouseButtonDown(1))
+        if (Input.GetMouseButtonDown(1) && _coinThrown == false)
         {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
-            if(Physics.Raycast(ray, out hit))
-            {
-                Instantiate(_coin, hit.point, Quaternion.identity);
-                _coinDrop.Play();
-            }
+                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                RaycastHit hit;
+                if (Physics.Raycast(ray, out hit))
+                {
+                _coinThrown = true;
+                    Instantiate(_coin, hit.point, Quaternion.identity);
+                    AudioSource.PlayClipAtPoint(_coinDrop, hit.point);
+                SendGuardsToCoinPosition(hit.point);
+                }
+           
         }
 
+    }
+
+    private void SendGuardsToCoinPosition(Vector3 coin_pos)
+    {
+        GameObject[] guards = GameObject.FindGameObjectsWithTag("Guard1");
+        foreach(GameObject guard in guards)
+        {
+            NavMeshAgent currentAgent = guard.GetComponent<NavMeshAgent>();
+            GuardAI currentGuard = guard.GetComponent<GuardAI>();
+            Animator guardAnimator = guard.GetComponent<Animator>();
+            //Transform guardTransform = guard.GetComponent<Transform>();
+
+            //float distance = Vector3.Distance(guardTransform.position, coin_pos);
+            currentGuard._coinToss = true;
+            currentAgent.SetDestination(coin_pos);
+            //change the vector in the guard script
+            currentGuard._coinPosition = coin_pos;
+            //if(distance < 2f)
+            //{
+            //    guardAnimator.SetBool("Alerted", true);
+            //}
+        }
     }
 
 

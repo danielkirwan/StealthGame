@@ -11,6 +11,8 @@ public class GuardAI : MonoBehaviour
     private bool _reverse;
     private bool _targetReached;
     private Animator _anim;
+    public bool _coinToss = false;
+    public Vector3 _coinPosition;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,11 +26,20 @@ public class GuardAI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(_waypoints.Count > 0 && _waypoints[_currentTarget] != null)
+        if(_waypoints.Count > 0 && _waypoints[_currentTarget] != null && _coinToss == false)
         {
             _agent.SetDestination(_waypoints[_currentTarget].position);
             
             float distance = Vector3.Distance(transform.position, _waypoints[_currentTarget].position);
+            if(_waypoints.Count == 1 && _targetReached == false)
+            {
+                _anim.SetBool("Walk", true);
+                if(distance < 1f)
+                {
+                    StartCoroutine(StandingAlertedGuard());
+                }
+            }
+            
             if(distance < 1f && _targetReached == false)
             {
                 _anim.SetBool("Walk", true);
@@ -61,6 +72,25 @@ public class GuardAI : MonoBehaviour
                 }
             }
         }
+        else
+        {
+            float distance = Vector3.Distance(transform.position, _coinPosition);
+            if(distance < 4f)
+            {
+                _anim.SetBool("Alerted", true);
+            }
+        }
+    }
+
+    IEnumerator StandingAlertedGuard()
+    {
+        _targetReached = true;
+        _anim.SetBool("Alerted", true);
+        //_anim.SetBool("Walk", false);
+        
+        Debug.Log("Alerted should be playing");
+        yield return new WaitForSeconds(0.5f);
+        
     }
 
     IEnumerator WaitBeforeMoving()
