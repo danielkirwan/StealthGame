@@ -50,15 +50,19 @@ public class Player : MonoBehaviour
 
         if (Input.GetMouseButtonDown(1) && _coinThrown == false)
         {
-                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-                RaycastHit hit;
-                if (Physics.Raycast(ray, out hit))
-                {
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+            if (Physics.Raycast(ray, out hit))
+            {
+                _anim.SetTrigger("Throw");
+                
                 _coinThrown = true;
-                    Instantiate(_coin, hit.point, Quaternion.identity);
-                    AudioSource.PlayClipAtPoint(_coinDrop, hit.point);
+                Instantiate(_coin, hit.point, Quaternion.identity);
+
+                
+                AudioSource.PlayClipAtPoint(_coinDrop, hit.point);
                 SendGuardsToCoinPosition(hit.point);
-                }
+            }
            
         }
 
