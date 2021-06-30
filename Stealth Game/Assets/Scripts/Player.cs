@@ -76,17 +76,13 @@ public class Player : MonoBehaviour
             NavMeshAgent currentAgent = guard.GetComponent<NavMeshAgent>();
             GuardAI currentGuard = guard.GetComponent<GuardAI>();
             Animator guardAnimator = guard.GetComponent<Animator>();
-            //Transform guardTransform = guard.GetComponent<Transform>();
 
             //float distance = Vector3.Distance(guardTransform.position, coin_pos);
             currentGuard._coinToss = true;
             currentAgent.SetDestination(coin_pos);
             //change the vector in the guard script
             currentGuard._coinPosition = coin_pos;
-            //if(distance < 2f)
-            //{
-            //    guardAnimator.SetBool("Alerted", true);
-            //}
+            guardAnimator.SetBool("Walk", true);
         }
     }
 
