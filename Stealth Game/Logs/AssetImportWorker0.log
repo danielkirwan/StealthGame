@@ -266,3 +266,901 @@ System memory in use after: 73.7 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1799.
 Total: 3.503100 ms (FindLiveObjects: 0.301700 ms CreateObjectMapping: 0.089600 ms MarkObjects: 2.373800 ms  DeleteObjects: 0.734600 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 73.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1803.
+Total: 4.315300 ms (FindLiveObjects: 0.343400 ms CreateObjectMapping: 0.075800 ms MarkObjects: 3.160000 ms  DeleteObjects: 0.731000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3734.030214 seconds.
+  path: Assets/Scripts/UIManager.cs
+  artifactKey: Guid(b8212455f10b6ee4a972f5224fa52648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIManager.cs using Guid(b8212455f10b6ee4a972f5224fa52648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d54a06266fdfebd2784cd498efb0e3') in 0.247634 seconds
+  Import took 0.285075 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.301 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1808.
+Total: 3.666800 ms (FindLiveObjects: 0.301300 ms CreateObjectMapping: 0.067300 ms MarkObjects: 2.529900 ms  DeleteObjects: 0.766600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.263 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1812.
+Total: 3.860900 ms (FindLiveObjects: 0.309300 ms CreateObjectMapping: 0.087800 ms MarkObjects: 2.720200 ms  DeleteObjects: 0.740500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001387 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.241 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1816.
+Total: 3.425100 ms (FindLiveObjects: 0.287200 ms CreateObjectMapping: 0.066300 ms MarkObjects: 2.330500 ms  DeleteObjects: 0.739500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001663 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.324 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1820.
+Total: 4.156800 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.092400 ms MarkObjects: 2.955500 ms  DeleteObjects: 0.787800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 947.442160 seconds.
+  path: Assets/The Great Fleece/Game/Sprites/Main_Menu
+  artifactKey: Guid(7b2478cf0364c4dcd8c35fd675d0c871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Sprites/Main_Menu using Guid(7b2478cf0364c4dcd8c35fd675d0c871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c980a222f323f43ed9cf1b0ca2598d9f') in 0.021012 seconds
+  Import took 0.025626 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.2 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 3.894600 ms (FindLiveObjects: 0.301300 ms CreateObjectMapping: 0.069500 ms MarkObjects: 2.462400 ms  DeleteObjects: 1.058900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 592.338896 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleImage.controller
+  artifactKey: Guid(9d4d150c83fff90468274cdc9ef02c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleImage.controller using Guid(9d4d150c83fff90468274cdc9ef02c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6102721fa9a249b30e3ec2bdc7d50f') in 1.102312 seconds
+  Import took 1.130268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.888639 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleAnimation.anim
+  artifactKey: Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleAnimation.anim using Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98eb4225ff6b99df6ef6abc780031cb5') in 0.016724 seconds
+  Import took 0.020960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008754 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleAnimation.anim
+  artifactKey: Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleAnimation.anim using Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98eb4225ff6b99df6ef6abc780031cb5') in 0.014174 seconds
+  Import took 0.018471 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001545 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 3.661200 ms (FindLiveObjects: 0.299400 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.434000 ms  DeleteObjects: 0.847200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.120466 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleAnimation.anim
+  artifactKey: Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleAnimation.anim using Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e266ecafc2ca033108804718ba4da6f1') in 0.046936 seconds
+  Import took 0.080837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.218113 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleAnimation.anim
+  artifactKey: Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleAnimation.anim using Guid(b6498c8924a56a9498a2191e1d77f813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e266ecafc2ca033108804718ba4da6f1') in 0.013326 seconds
+  Import took 0.017310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.173 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 4.028600 ms (FindLiveObjects: 0.310600 ms CreateObjectMapping: 0.074100 ms MarkObjects: 2.860000 ms  DeleteObjects: 0.780800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.948996 seconds.
+  path: Assets/The Great Fleece/Game/Animations/Fade.controller
+  artifactKey: Guid(52cd162f78827ae4e9cd3027bdcb533b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/Fade.controller using Guid(52cd162f78827ae4e9cd3027bdcb533b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2b6e7b4a67b559c95b4f425b141a65') in 0.051246 seconds
+  Import took 0.070935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.236760 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleFadeAnimation.anim
+  artifactKey: Guid(0d7b5ab5261939548a4f2f7d7340a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleFadeAnimation.anim using Guid(0d7b5ab5261939548a4f2f7d7340a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07830c9d406b0dbc282a1833a43a46ce') in 0.019181 seconds
+  Import took 0.023776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.265906 seconds.
+  path: Assets/The Great Fleece/Game/Animations/TitleFadeAnimation.anim
+  artifactKey: Guid(0d7b5ab5261939548a4f2f7d7340a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/Animations/TitleFadeAnimation.anim using Guid(0d7b5ab5261939548a4f2f7d7340a4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2685ae8444671330b1384dcf9c8ca1') in 0.015607 seconds
+  Import took 0.027124 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001545 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.125 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1836.
+Total: 4.041100 ms (FindLiveObjects: 0.298900 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.872100 ms  DeleteObjects: 0.794600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001409 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 3.753900 ms (FindLiveObjects: 0.431100 ms CreateObjectMapping: 0.068600 ms MarkObjects: 2.458000 ms  DeleteObjects: 0.794600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.788596 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main
+  artifactKey: Guid(884d00e77018e714ebd85f44ca35b992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main using Guid(884d00e77018e714ebd85f44ca35b992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886a0f5ccb8bf43a236ad6c0d059978f') in 0.025840 seconds
+  Import took 0.057530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088309 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/LightingData.asset
+  artifactKey: Guid(d2f7580e4314c584392b91414ba5329b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/LightingData.asset using Guid(d2f7580e4314c584392b91414ba5329b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a84f0babd0456cb438dd0cfed479e2') in 0.527619 seconds
+  Import took 0.561264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-2_comp_light.exr
+  artifactKey: Guid(f783a6e8acd1a1f419cf28b92797d6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-2_comp_light.exr using Guid(f783a6e8acd1a1f419cf28b92797d6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fade4688efd19d0f383d69e1343a1a05') in 0.189463 seconds
+  Import took 0.193835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-3_comp_light.exr
+  artifactKey: Guid(908c39d7e51096041b000166308e4e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-3_comp_light.exr using Guid(908c39d7e51096041b000166308e4e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84323ec0cfeabd82e985360b5e6c1f9') in 0.034114 seconds
+  Import took 0.038773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-20_comp_light.exr
+  artifactKey: Guid(5e568e7501bfec24eadb331f49955817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-20_comp_light.exr using Guid(5e568e7501bfec24eadb331f49955817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6daee2c4dc68dae8e91a1e215c2bac') in 0.031102 seconds
+  Import took 0.058099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-7_comp_light.exr
+  artifactKey: Guid(9ddb311a7cbda044ab2a619590ca6ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-7_comp_light.exr using Guid(9ddb311a7cbda044ab2a619590ca6ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9bf85a6402f088c4a5588465f0e94f') in 0.032995 seconds
+  Import took 0.036431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-9_comp_light.exr
+  artifactKey: Guid(da81fb7cc72d54749adb3e73515b9e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-9_comp_light.exr using Guid(da81fb7cc72d54749adb3e73515b9e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992446031e000d619a35db931b3f88e1') in 0.028140 seconds
+  Import took 0.031492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-5_comp_light.exr
+  artifactKey: Guid(4039b9bee648ecf42b9dbb103e1c4adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-5_comp_light.exr using Guid(4039b9bee648ecf42b9dbb103e1c4adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cacc8d6688ea9a198a28e70e10c9950') in 0.029965 seconds
+  Import took 0.089067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-15_comp_light.exr
+  artifactKey: Guid(c2cec0e0687f22141938ddd4cfc1c089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-15_comp_light.exr using Guid(c2cec0e0687f22141938ddd4cfc1c089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c0e2182a22c66b116ee55d5d565213') in 0.091768 seconds
+  Import took 0.117745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-18_comp_light.exr
+  artifactKey: Guid(a17c2891f0896a24a86ca5fdef9f5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-18_comp_light.exr using Guid(a17c2891f0896a24a86ca5fdef9f5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34df45fa32b75b5ebc09e7f70a1558fc') in 0.028767 seconds
+  Import took 0.041709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-8_comp_light.exr
+  artifactKey: Guid(06cbc06dd27cce24d9dc85e7dd284308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-8_comp_light.exr using Guid(06cbc06dd27cce24d9dc85e7dd284308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c047bae1064498a3fdb96d0b113dca74') in 0.030928 seconds
+  Import took 0.034682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-4_comp_light.exr
+  artifactKey: Guid(03e2652b1590c4745b00c6a66d59a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-4_comp_light.exr using Guid(03e2652b1590c4745b00c6a66d59a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca4967930c6778d1397516b2112fecf') in 0.027109 seconds
+  Import took 0.032245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-21_comp_light.exr
+  artifactKey: Guid(f7c07d1a6084f5743ad834a00d1df271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-21_comp_light.exr using Guid(f7c07d1a6084f5743ad834a00d1df271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c9b425789d0051b3c6feebe572b481') in 0.030686 seconds
+  Import took 0.034614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-13_comp_light.exr
+  artifactKey: Guid(83834fc0ad9125e4db46951c20f412ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-13_comp_light.exr using Guid(83834fc0ad9125e4db46951c20f412ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e17052c85c018a02a5397a9925c9ea5') in 0.025834 seconds
+  Import took 0.029790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-0_comp_light.exr
+  artifactKey: Guid(44b5fedb88aa5f54fb050d259affbb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-0_comp_light.exr using Guid(44b5fedb88aa5f54fb050d259affbb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1417033e2a43f7967942efe181abade7') in 0.028082 seconds
+  Import took 0.062345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-1_comp_light.exr
+  artifactKey: Guid(0224cb5eed6dd9846aa75cb05110b5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-1_comp_light.exr using Guid(0224cb5eed6dd9846aa75cb05110b5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d03d52b6298894dcc447b9ca666eb31') in 0.024847 seconds
+  Import took 0.029336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-11_comp_light.exr
+  artifactKey: Guid(49a1a9db67e5d904b905f8c2b8bb92cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-11_comp_light.exr using Guid(49a1a9db67e5d904b905f8c2b8bb92cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b3471429b4ce623cc7b319fb6f0997') in 0.025267 seconds
+  Import took 0.077881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-22_comp_light.exr
+  artifactKey: Guid(d065e0c0f457de748b9c44991b7380d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-22_comp_light.exr using Guid(d065e0c0f457de748b9c44991b7380d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b542fbdb6fe0fb89e9811509a604db') in 0.024856 seconds
+  Import took 0.059149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-12_comp_light.exr
+  artifactKey: Guid(aa7d812645cd8e04085af46c9aeb7fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-12_comp_light.exr using Guid(aa7d812645cd8e04085af46c9aeb7fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4518d7d63c0486963fd02c5326ffb7b3') in 0.031625 seconds
+  Import took 0.052917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-24_comp_light.exr
+  artifactKey: Guid(c808bfa4d09387741941923fad49b9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-24_comp_light.exr using Guid(c808bfa4d09387741941923fad49b9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352dae1380488b220a2d3563d1de6921') in 0.027674 seconds
+  Import took 0.032045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-23_comp_light.exr
+  artifactKey: Guid(d5f73ed092067b440938cf7000328d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-23_comp_light.exr using Guid(d5f73ed092067b440938cf7000328d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a1480dbcafefcc86c038b111518293') in 0.027942 seconds
+  Import took 0.033388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-14_comp_light.exr
+  artifactKey: Guid(412b9311d01b72844adff38e8f58e071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-14_comp_light.exr using Guid(412b9311d01b72844adff38e8f58e071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e748aa5e22956106f2f17fe2b3c7e0') in 0.028806 seconds
+  Import took 0.034328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-19_comp_light.exr
+  artifactKey: Guid(afbf0f836e34e7043a5c054ef36d6fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-19_comp_light.exr using Guid(afbf0f836e34e7043a5c054ef36d6fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770775d4012989c56ad22dd51324071b') in 0.029097 seconds
+  Import took 0.036184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-16_comp_light.exr
+  artifactKey: Guid(8c009d25914f9c74a91eed24401bbc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-16_comp_light.exr using Guid(8c009d25914f9c74a91eed24401bbc7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4bd054f661ab26e55a2c0d765ef792') in 0.030481 seconds
+  Import took 0.034116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-6_comp_light.exr
+  artifactKey: Guid(7c6fe6c5b2d3676479be347b1f7c2570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-6_comp_light.exr using Guid(7c6fe6c5b2d3676479be347b1f7c2570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc47ed5930afe47437d6ce65cf544f2') in 0.030584 seconds
+  Import took 0.037828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-10_comp_light.exr
+  artifactKey: Guid(837435ddd72fe4a44b909a2b801dae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-10_comp_light.exr using Guid(837435ddd72fe4a44b909a2b801dae57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892422b2ef754774da2d2f53bdfc8390') in 0.030947 seconds
+  Import took 0.039894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-17_comp_light.exr
+  artifactKey: Guid(d75c6ababfb4dc141b40604fb055fba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main/Lightmap-17_comp_light.exr using Guid(d75c6ababfb4dc141b40604fb055fba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b4ede233fc9d5673e88063df624134') in 0.027558 seconds
+  Import took 0.036489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.610155 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main.unity
+  artifactKey: Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main.unity using Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380772a905d9d184bc28c189ade1df0d') in 0.023770 seconds
+  Import took 0.047546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.618028 seconds.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(d5ed29c9a626a32408eb5860fc25fa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(d5ed29c9a626a32408eb5860fc25fa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b653fd6b6df9fcfeb67665c3b03c4e5e') in 0.014238 seconds
+  Import took 0.044198 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001533 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.093 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1275 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1848.
+Total: 3.490000 ms (FindLiveObjects: 0.341900 ms CreateObjectMapping: 0.100900 ms MarkObjects: 2.417800 ms  DeleteObjects: 0.627000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.653003 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(169601f6212d0da4e93c8746b1065622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(169601f6212d0da4e93c8746b1065622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f81d926b83339aa0cf1d45796690761') in 0.230823 seconds
+  Import took 0.268109 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1853.
+Total: 4.975300 ms (FindLiveObjects: 0.316500 ms CreateObjectMapping: 0.094400 ms MarkObjects: 3.797200 ms  DeleteObjects: 0.764100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.085 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 15.304900 ms (FindLiveObjects: 2.414000 ms CreateObjectMapping: 0.100900 ms MarkObjects: 7.453300 ms  DeleteObjects: 5.333000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1861.
+Total: 3.614300 ms (FindLiveObjects: 0.338400 ms CreateObjectMapping: 0.068100 ms MarkObjects: 2.466300 ms  DeleteObjects: 0.739400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1865.
+Total: 3.819000 ms (FindLiveObjects: 0.328300 ms CreateObjectMapping: 0.067000 ms MarkObjects: 2.636600 ms  DeleteObjects: 0.784300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.201 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1869.
+Total: 4.370400 ms (FindLiveObjects: 0.301300 ms CreateObjectMapping: 0.073100 ms MarkObjects: 3.089800 ms  DeleteObjects: 0.903200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 4.158200 ms (FindLiveObjects: 0.316800 ms CreateObjectMapping: 0.068400 ms MarkObjects: 3.010000 ms  DeleteObjects: 0.760800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001773 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1877.
+Total: 3.839500 ms (FindLiveObjects: 0.336600 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.638900 ms  DeleteObjects: 0.790100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.078 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1881.
+Total: 3.591500 ms (FindLiveObjects: 0.307500 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.476400 ms  DeleteObjects: 0.733700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001816 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.990 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1885.
+Total: 3.754300 ms (FindLiveObjects: 0.327100 ms CreateObjectMapping: 0.098900 ms MarkObjects: 2.524300 ms  DeleteObjects: 0.801600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1130.631523 seconds.
+  path: Assets/Scripts/Loading.cs
+  artifactKey: Guid(3fbf763679bc9414b818b8186acc2abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Loading.cs using Guid(3fbf763679bc9414b818b8186acc2abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e059e4b70634fe92fc59ec5e046595') in 0.045314 seconds
+  Import took 0.177351 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005134 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 3.667000 ms (FindLiveObjects: 0.359700 ms CreateObjectMapping: 0.084800 ms MarkObjects: 2.400300 ms  DeleteObjects: 0.819500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1894.
+Total: 3.941800 ms (FindLiveObjects: 0.360000 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.668700 ms  DeleteObjects: 0.835600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.227 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1898.
+Total: 3.704900 ms (FindLiveObjects: 0.315700 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.485600 ms  DeleteObjects: 0.835600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 806.441227 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Main.unity
+  artifactKey: Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Main.unity using Guid(9b026484f43ebc14f85fe756ec990657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06f7d3ca0767ba27aa892b1d0d674fc') in 0.322120 seconds
+  Import took 0.378586 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.306 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 3.618800 ms (FindLiveObjects: 0.319900 ms CreateObjectMapping: 0.076500 ms MarkObjects: 2.436500 ms  DeleteObjects: 0.783800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.222029 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/Menu.unity
+  artifactKey: Guid(0faa330e8bc65274c9f5b7ecbda7130a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/Menu.unity using Guid(0faa330e8bc65274c9f5b7ecbda7130a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d672279efa14fbcd6c0735abf97425') in 0.034244 seconds
+  Import took 0.055841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.747179 seconds.
+  path: Assets/The Great Fleece/Game/_Scenes/LoadingBar.unity
+  artifactKey: Guid(77e39108b19dff74683782e1d0af6526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/The Great Fleece/Game/_Scenes/LoadingBar.unity using Guid(77e39108b19dff74683782e1d0af6526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13e38fbc795cd349f329adb3757c7f3') in 0.016054 seconds
+  Import took 0.040102 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.176 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 4.251400 ms (FindLiveObjects: 0.327000 ms CreateObjectMapping: 0.078700 ms MarkObjects: 3.089300 ms  DeleteObjects: 0.753800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1277 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1910.
+Total: 3.876300 ms (FindLiveObjects: 0.343700 ms CreateObjectMapping: 0.072000 ms MarkObjects: 2.656300 ms  DeleteObjects: 0.802200 ms)
+
